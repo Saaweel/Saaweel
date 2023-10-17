@@ -1,4 +1,4 @@
-<p align="center"><a href="https://saaweel.com"><img width="80%" alt="Hello, I'm Saaweel"</a></p>
+<p align="center"><a href="https://saaweel.com"><h1>👋 Hello, I'm Saaweel 👋<h1></a></p>
 
 <!--
 <br />
