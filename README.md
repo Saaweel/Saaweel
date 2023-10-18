@@ -8,7 +8,7 @@
 
 - ✖️ [Twitter / X](https://twitter.com/saaweel)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaweel&theme=discord_old_blurple&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaweel&theme=discord_old_blurple) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaweel&theme=discord_old_blurple&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaweel&theme=discord_old_blurple) |
 | --------------------- | --------------------- |
 
 ![](https://komarev.com/ghpvc/?username=saaweel&color=000000)
