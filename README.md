@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Saaweel 👋
 
-- 💼 Backend Developer at [OrigenNetwork](https://www.origennetwork.store)
+- 💼 Backend Developer at [Surlabs](https://www.surlabs.com/)
 
 - 🌐 [Website](https://saaweel.com)
 
